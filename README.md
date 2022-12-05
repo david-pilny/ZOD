@@ -5,7 +5,7 @@ Image Data Processing class. Code is written in Jupyter Notebook.
 
 ## Libraries used
 
-(using **Python:** 3.9.11)
+(using **Python** 3.9.11)
 
 - Tensorflow 2.5.0
 - Matplotlib 3.5.0
@@ -20,3 +20,9 @@ directory. Directory contains two scripts: `training.ipynb`
 and `testing.ipynb`. The first one is self-explanatory I think. 
 In the `testing.ipynb` script I am testing trained model on data 
 in `7v0` directory.
+
+## Semestral Project
+
+`Number_recognition` directory contains code and prerequisites 
+for my semestral project. In this project I was segmenting ultrasound
+images of atherosclerosis with **U-Net** convolutional neural network.

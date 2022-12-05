@@ -1,4 +1,5 @@
 02_histogramy_hadanka
+Semestral_Project/Dataset/.DS_Store
 DS_Store
 .ipynb_checkpoints
 Dicom.ipynb
@@ -8,3 +9,11 @@ Preparation_for_test.ipynb
 Dicom
 Assets
 Number_recognition/box_bounding.ipynb
+Semestral_Project/.DS_Store
+Semestral_Project/First_training/logs
+Semestral_Project/First_training/.DS_Store
+Semestral_Project/First_training/.ipynb_checkpoints
+
+Semestral_Project/Second_training/logs
+Semestral_Project/Second_training/.DS_Store
+Semestral_Project/Second_training/.ipynb_checkpoints
