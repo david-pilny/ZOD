@@ -26,3 +26,6 @@ in `7v0` directory.
 `Number_recognition` directory contains code and prerequisites 
 for my semestral project. In this project I was segmenting ultrasound
 images of atherosclerosis with **U-Net** convolutional neural network.
+
+## Final_homework
+`Final_homework` directory contains solution to the final homework for the Image Data Processing class. Task is broken down in `dú_03_větráčina.pdf` file. 
